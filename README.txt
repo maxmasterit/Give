@@ -1,0 +1,1 @@
+to run the REST, launch command prompt, shift-rightclick nodejs folder, input npm start. goto http://localhost:3000
